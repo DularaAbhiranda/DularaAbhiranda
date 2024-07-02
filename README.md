@@ -87,7 +87,7 @@
 
 <p align="center">
     <a href="https://www.credly.com/badges/e3fa37fa-b956-4493-b77b-4d09c695f0f5/linked_in?t=sftexy"><img src="" height="100" width="100" style="margin: 0 10px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="" height="100" width="100" style="margin: 0 10px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="https://www.cloudskillsboost.google/public_profiles/63852670-2f36-45a6-94c7-4ad717667e49/badges/9600493" height="100" width="100" style="margin: 0 10px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="" height="100" width="100" style="margin: 0 10px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="" height="100" width="100" style="margin: 0 10px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="" height="100" width="100" style="margin: 0 10px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
