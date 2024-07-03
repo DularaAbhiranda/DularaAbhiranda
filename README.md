@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"><b>Hi , I'm Dulara Abhiranda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b> H3ll0, 1 4m Du14r4 4bh1r4nd4 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <!--  -->
 
 <p align="center">
