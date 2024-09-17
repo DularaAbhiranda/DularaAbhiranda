@@ -10,6 +10,7 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cloud+Networking+and+Security;Undergraduate+BICT;CCNA+Certified;MERN+Stack+Developer;Aspiring+Blockchain+&+ML;RedHat+Tech+User;HTB=&+THM+Player<3"></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhiranda&label=Profile%20views&color=0e75b6&style=flat" alt="abhiranda" /> </p>
 <hr>
 <br>
 <table align="center">
