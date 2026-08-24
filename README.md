@@ -17,7 +17,7 @@
   
 - 🌱 I’m currently learning *Networking and CyberSecurity*
 
-- 🧑‍🎓 I’m an Undergraduate at **Universiy of Sri Jayawardanapura**
+- 🧑‍🎓 I’m an Graduated at **Universiy of Sri Jayawardanapura**
 
 - 📫 How to reach me **abhiranda21@gmail.com**
   
